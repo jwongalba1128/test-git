@@ -10,3 +10,7 @@ Ejercicios de git
 imagen de historia log.gnp
 
 https://github.com/jwongalba1128/test-git.git/log.png
+
+imagen network
+
+https://github.com/jwongalba1128/test-git.git/network.png
